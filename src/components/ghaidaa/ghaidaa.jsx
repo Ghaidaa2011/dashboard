@@ -1,5 +1,9 @@
 const ghaidaa = () => {
-  return <div>ghaidaa</div>;
+  return (
+    <div>
+      <h1>hello</h1>
+    </div>
+  );
 };
 
 export default ghaidaa;
